@@ -1,0 +1,1 @@
+console.log("Página de One Piece cargada correctamente");
