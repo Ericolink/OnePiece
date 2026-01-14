@@ -1,0 +1,46 @@
+body {
+font-family: Arial, Helvetica, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #f4f4f4;
+color: #333;
+}
+
+
+header {
+background-color: #d32f2f;
+color: white;
+padding: 20px;
+text-align: center;
+}
+
+
+section {
+padding: 20px;
+margin: 20px auto;
+max-width: 900px;
+background-color: white;
+border-radius: 8px;
+}
+
+
+section img {
+width: 100%;
+max-width: 400px;
+display: block;
+margin: 15px auto;
+border-radius: 8px;
+}
+
+
+.video {
+text-align: center;
+}
+
+
+footer {
+text-align: center;
+padding: 10px;
+background-color: #222;
+color: white;
+}
